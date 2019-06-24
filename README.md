@@ -1,0 +1,1 @@
+JPA, Hibernate, entitymanager, named parameter notation, jpql, lazy loading, typedquery, named query, openentitymanagerinview, criteriabuilder,criteriaquery, pool de conexão, lock otimista, lock pessimista, cache primeiro e segundo nível, statistics
